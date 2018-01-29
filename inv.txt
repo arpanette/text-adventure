@@ -1,0 +1,8 @@
+dummyItem:1: You're a thorough person! Happy Easter ;-)
+absentDummyItem:0: You shouldn't be reading this.
+key:1: A tarnished silver skeleton key. Too bad there's no such thing as a skeleton door.
+map:1: A damp map. It's impossible to read due to water damage and mildew. 
+mirror:1: A shiny mirror. Lookin' good in the neighborhood, champ! 
+sun:0: Don't stare at it.
+dignity:1: Don't play. It's not like you got any, punk!
+lastItem:1:oop
